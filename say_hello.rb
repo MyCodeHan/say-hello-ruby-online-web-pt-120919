@@ -1,2 +1,2 @@
 # Build your say_hello method here
-say_hello("Hannah")
+puts say_hello("Hannah")
